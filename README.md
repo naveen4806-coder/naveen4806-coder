@@ -5,7 +5,7 @@
 
   <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://github.com/naveen4806-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=61AFEF&center=true&vCenter=true&width=650&height=45&lines=Computer+Science+Undergraduate+%40+KIT;Full-Stack+%26+Frontend+Developer;Founder+%26+CEO+%40+Navistara+Groups;Architecting+ZORRA+%E2%80%94+Hyperlocal+Commerce;Problem+Solver+%7C+400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=61AFEF&center=true&vCenter=true&width=650&height=45&lines=Computer+Science+Undergraduate+%40+KIT;Full-Stack+%26+Frontend+Developer;Founder+%26+CEO+%40+Navistara+Groups;Architecting+ZORRA+%E2%80%94+Hyperlocal+Commerce;Problem+Solver+%7C+400%2BProblems+Solved" alt="Typing SVG" />
   </a>
 
   <br/>
